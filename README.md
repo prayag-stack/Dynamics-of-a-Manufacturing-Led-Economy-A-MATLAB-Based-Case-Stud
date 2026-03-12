@@ -1,0 +1,2 @@
+# Dynamics-of-a-Manufacturing-Led-Economy-A-MATLAB-Based-Case-Stud
+The study utilizes the Solow-Swan Capital Accumulation Model, represented by a non-linear first-order Ordinary Differential Equation (ODE). This model simulates the transition from an emerging market to an industrial powerhouse by calculating the Steady State—the equilibrium where infrastructure investment perfectly offsets natural decay.
